@@ -81,7 +81,3 @@ We evaluated **three CNN architectures** using **transfer learning**:
 - Balanced dataset to prevent class bias.  
 - Implemented **Dropout, EarlyStopping, and fine-tuning** for better generalization.  
 - Achieved **up to 87% accuracy** (InceptionV3).  
-
----
-
-## 🗂️ Repository Structure
